@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color: #00ff00;">Certificados Y conocimientoa | reddix6</h1>
+<h1 align="center" style="color: #00ff00;">Certificados Y conocimientos | reddix6</h1>
 
 <p align="center" style="color: #00ff00;">
   <i>They very funny hahahahaha</i>
