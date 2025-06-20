@@ -192,3 +192,13 @@ $ ping instagram.com/e0sd1s._.onion
 ## 🧠 Fun Fact
 
 > “Los ojos pueden engañar, no confíes en ellos. La verdad está en el código.” - reddix6
+> ## 🌑 Deep Web & Dark Web
+
+<img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/000000/external-deepweb-darknet-flat-icons-inmotus-design.png" width="60" alt="Deep Web Icon"/>
+
+Desde los *11 años* he explorado el mundo digital con pasión y disciplina. Con más de *3 años de experiencia, me he sumergido en los entornos ocultos de la **Deep Web* y la *Dark Web*, enfocándome en:
+
+- 🛡 *Anonimato y seguridad digital*
+- 🧠 *Análisis de redes ocultas (.onion)*
+- ⚙ *Sistemas distribuidos bajo la red Tor*
+- 🕶 *Ambientes controlados para pruebas éticas*
